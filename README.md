@@ -3,12 +3,12 @@
 
 |[Zulfakar Muhammad][devFacebook1]|[Yusril][devFacebook2]|[Agung Suryo Sundoro][devFacebook3]|
 |-----------------|-----|-------------------|
-|![alt text][dev1]|![alt text][dev2]|![alt text][dev3]|
+|<img src="https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/46518708_1059410420904457_2602325589499052032_n.jpg?_nc_cat=107&_nc_ht=scontent.fcgk18-2.fna&oh=e7ea31cff25ca25f973a0494a4d10852&oe=5CC87EE6" width=200 height=200>|![alt text][dev2]|![alt text][dev3]|
 |[**16.11.0500**][mhs1]|[**16.11.0503**][mhs1]|[**16.11.0493**][mhs3]|
 
-[dev1]: https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/46518708_1059410420904457_2602325589499052032_n.jpg?_nc_cat=107&_nc_ht=scontent.fcgk18-2.fna&oh=e7ea31cff25ca25f973a0494a4d10852&oe=5CC87EE6 = 200x200
-[dev2]: http://www.amikom.ac.id/public/fotomhs/2016/16_11_0503.jpg = 200x200
-[dev3]: https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/42982681_2181105038769248_2511592060318908416_n.jpg?_nc_cat=104&_nc_ht=scontent.fcgk18-2.fna&oh=935d3ca8cf5e0ddfc4fa1eaa38127da2&oe=5CD485B6 = 200x200
+[dev1]: https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/46518708_1059410420904457_2602325589499052032_n.jpg?_nc_cat=107&_nc_ht=scontent.fcgk18-2.fna&oh=e7ea31cff25ca25f973a0494a4d10852&oe=5CC87EE6
+[dev2]: http://www.amikom.ac.id/public/fotomhs/2016/16_11_0503.jpg
+[dev3]: https://scontent.fcgk18-2.fna.fbcdn.net/v/t1.0-9/42982681_2181105038769248_2511592060318908416_n.jpg?_nc_cat=104&_nc_ht=scontent.fcgk18-2.fna&oh=935d3ca8cf5e0ddfc4fa1eaa38127da2&oe=5CD485B6
 
 [devFacebook1]: https://facebook.com/muzaelzaf
 [devFacebook2]: https://facebook.com/100010387540632
