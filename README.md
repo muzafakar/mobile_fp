@@ -18,4 +18,4 @@ Made with :heart: by these developers: </br>
 
 ![alt tag](https://drive.google.com/open?id=1oY8Pv777OFazYVfhpCUTmmFTYTXMPYlu)
 
-![alt tag](https://drive.google.com/open?id=1PwqutlREZ1jph8ehmEfY07i5VF7e9lH9)
+![alt tag](https://lh5.googleusercontent.com/ykkW4W8R2UYRQ46U2Cl_aFtQQXrcU36ZJsaQjK6ktBky-hKosbx1dkKef66RUWfU_lJQngKwUrboGOpM4Hpv=w1368-h665-rw)
