@@ -1,4 +1,4 @@
-# Authentic Jogja </br>
+# Authentic Jogja Team</br>
 Made with :heart: by these developers: </br>
 
 <img src="http://www.amikom.ac.id/public/fotomhs/2016/16_11_0500.jpg" height="96" width="96">
@@ -12,3 +12,10 @@ Made with :heart: by these developers: </br>
 <img src="http://www.amikom.ac.id/public/fotomhs/2016/16_11_0493.jpg" height="96" width="96">
 <a href="https://www.facebook.com/agungsagsusyl"><b>Agung Suryo Sundoro</b></a> </br>
 <p>16.11.0493</p> </br>
+
+# Screenshots
+![alt tag](https://drive.google.com/open?id=1r07n9hgw4KMpJU5fVZI4vQJ9qAjFjTZl)
+
+![alt tag](https://drive.google.com/open?id=1oY8Pv777OFazYVfhpCUTmmFTYTXMPYlu)
+
+![alt tag](https://drive.google.com/open?id=1PwqutlREZ1jph8ehmEfY07i5VF7e9lH9)
