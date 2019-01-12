@@ -1,7 +1,12 @@
 # Authentic Jogja Team</br>
-Made with :heart: by these developers: </br>
+Made with :heart: by these developers:
 
-|<img src="http://www.amikom.ac.id/public/fotomhs/2016/16_11_0500.jpg" height="96" width="96">|<img src="http://www.amikom.ac.id/public/fotomhs/2016/16_11_0503.jpg" height="96" width="96">|<img src="http://www.amikom.ac.id/public/fotomhs/2016/16_11_0493.jpg" height="96" width="96">|
+![alt text][dev1]
+
+[dev1]: http://www.amikom.ac.id/public/fotomhs/2016/16_11_0500.jpg
+[dev2]: http://www.amikom.ac.id/public/fotomhs/2016/16_11_0503.jpg
+[dev3]: http://www.amikom.ac.id/public/fotomhs/2016/16_11_0493.jpg
+
 
 
 # Screenshots
