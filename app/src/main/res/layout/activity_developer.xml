@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/madeWithLove"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/lato_bold"
+        android:text="@string/asd"
+        android:textAlignment="center"
+        android:textSize="22sp" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/developerPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/madeWithLove" />
+
+    <LinearLayout
+        android:id="@+id/devDot"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="@android:dimen/notification_large_icon_width"
+        android:layout_alignParentBottom="true" />
+
+    <!--  <android.support.v7.widget.CardView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginBottom="4dp"
+          app:cardUseCompatPadding="true"
+          app:contentPadding="8dp">
+
+          <RelativeLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+              <de.hdodenhof.circleimageview.CircleImageView
+                  android:id="@+id/iImg1"
+                  android:layout_width="96dp"
+                  android:layout_height="96dp"
+                  app:civ_border_width="2dp"
+                  app:civ_border_color="@color/colorPrimaryDark"
+                  tools:src="@mipmap/ic_launcher" />
+
+              <TextView
+                  android:id="@+id/name1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginStart="4dp"
+                  android:layout_toEndOf="@id/iImg1"
+                  android:fontFamily="@font/lato_bold"
+                  android:text="Muhammad Zulfakar"
+                  android:textSize="22sp" />
+
+              <TextView
+                  android:id="@+id/npm1"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_below="@id/name1"
+                  android:layout_marginStart="4dp"
+                  android:layout_toEndOf="@id/iImg1"
+                  android:fontFamily="@font/lato_light"
+                  android:text="16.11.0500"
+                  android:textSize="22sp" />
+          </RelativeLayout>
+      </android.support.v7.widget.CardView>
+
+      <android.support.v7.widget.CardView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginBottom="4dp"
+          app:cardUseCompatPadding="true"
+          app:contentPadding="8dp">
+
+          <RelativeLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+              <de.hdodenhof.circleimageview.CircleImageView
+                  android:id="@+id/iImg2"
+                  android:layout_width="96dp"
+                  app:civ_border_width="2dp"
+                  app:civ_border_color="@color/colorPrimaryDark"
+                  android:layout_height="96dp"
+                  tools:src="@mipmap/ic_launcher" />
+
+              <TextView
+                  android:id="@+id/name2"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginStart="4dp"
+                  android:layout_toEndOf="@id/iImg2"
+                  android:fontFamily="@font/lato_bold"
+                  android:text="Yusril"
+                  android:textSize="22sp" />
+
+              <TextView
+                  android:id="@+id/npm2"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_below="@id/name2"
+                  android:layout_marginStart="4dp"
+                  android:layout_toEndOf="@id/iImg2"
+                  android:fontFamily="@font/lato_light"
+                  android:text="16.11.0503"
+                  android:textSize="22sp" />
+          </RelativeLayout>
+      </android.support.v7.widget.CardView>
+
+      <android.support.v7.widget.CardView
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginBottom="4dp"
+          app:cardUseCompatPadding="true"
+          app:contentPadding="8dp">
+
+          <RelativeLayout
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+              <de.hdodenhof.circleimageview.CircleImageView
+                  android:id="@+id/iImg3"
+                  android:layout_width="96dp"
+                  app:civ_border_width="2dp"
+                  app:civ_border_color="@color/colorPrimaryDark"
+                  android:layout_height="96dp"
+                  tools:src="@mipmap/ic_launcher" />
+
+              <TextView
+                  android:id="@+id/name3"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_marginStart="4dp"
+                  android:layout_toEndOf="@id/iImg3"
+                  android:fontFamily="@font/lato_bold"
+                  android:text="Agung Suryo Sundoro"
+                  android:textSize="22sp" />
+
+              <TextView
+                  android:id="@+id/npm3"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_below="@id/name3"
+                  android:layout_marginStart="4dp"
+                  android:layout_toEndOf="@id/iImg3"
+                  android:fontFamily="@font/lato_light"
+                  android:text="16.11.0493"
+                  android:textSize="22sp" />
+          </RelativeLayout>
+      </android.support.v7.widget.CardView>-->
+
+</RelativeLayout>

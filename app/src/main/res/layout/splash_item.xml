@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/onBoardingImage"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/on_boarding_image_height"
+        android:layout_marginBottom="@dimen/menu_margin_bottom"
+        android:paddingEnd="@dimen/on_boarding_hor_padding"
+        android:paddingStart="@dimen/on_boarding_hor_padding"
+        android:scaleType="centerInside"
+        android:src="@drawable/on_boarding_map" />
+
+    <TextView
+        android:id="@+id/onBoardingTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/onBoardingImage"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="@dimen/menu_margin_bottom"
+        android:fontFamily="@font/lato_bold"
+        android:text="@string/onBoardingTitle1"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/onBoardingExplanation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/onBoardingTitle"
+        android:layout_marginBottom="@dimen/menu_margin_bottom"
+        android:fontFamily="@font/lato_light"
+        android:paddingEnd="@dimen/on_boarding_hor_padding"
+        android:paddingStart="@dimen/on_boarding_hor_padding"
+        android:text="@string/onBoardingExplanation1"
+        android:textAlignment="center"
+        android:textSize="20sp" />
+
+</RelativeLayout>

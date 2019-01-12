@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/submenu_culinary"
+        android:icon="@drawable/selector_culinary"
+        android:title="@string/culinary" />
+
+    <item
+        android:id="@+id/submenu_craft"
+        android:icon="@drawable/selector_craft"
+        android:title="@string/craft" />
+
+    <item
+        android:id="@+id/submenu_event"
+        android:icon="@drawable/selector_event"
+        android:title="@string/events" />
+    <item
+        android:id="@+id/submenu_language"
+        android:icon="@drawable/selector_languge"
+        android:title="@string/native_language" />
+
+</menu>

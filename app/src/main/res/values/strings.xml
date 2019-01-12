@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name" translatable="false">Authentic Jogja</string>
+    <string name="authentic" translatable="false">authentic</string>
+    <string name="jogja" translatable="false">YOGYAKARTA</string>
+
+
+    <!--onBoarding Title-->
+    <string name="onBoardingTitle2">Accurate Map</string>
+    <string name="onBoardingTitle1">Discover</string>
+    <string name="onBoardingTitle3">Trivia</string>
+
+    <!--onBoarding Explanation-->
+    <string name="onBoardingExplanation2">find local events, authentic culinaries and handcraft around the region</string>
+    <string name="onBoardingExplanation1">Discover authentic experience around the region</string>
+    <string name="onBoardingExplanation3">Get the special information about the place you would to visit</string>
+
+    <!--discovery menu-->
+    <string name="no_favourite_found">No favorite found</string>
+    <string name="craft">Craft</string>
+    <string name="events">Events</string>
+    <string name="native_language">Native Language</string>
+
+    <!--culinary-->
+    <string name="culinary">Culinary</string>
+    <string name="gudeg" translatable="false">Gudeg</string>
+    <string name="skewer">Skewer</string>
+    <string name="snack">Snacks</string>
+    <string name="drink">Drinks</string>
+    <string name="other_food">Other Food</string>
+
+    <!--craft-->
+    <string name="pottery">Pottery</string>
+    <string name="batik" translatable="false">Batik</string>
+    <string name="silver_craft">Silver craft</string>
+
+    <!--Native language-->
+    <string name="greeting">Greetings</string>
+    <string name="ask_direction">Ask Direction</string>
+    <string name="transaction">Transaction</string>
+    <string name="number">Numbers</string>
+
+
+    <!--Home Navigation-->
+    <string name="trending">Trending</string>
+    <string name="favourite">Favourite</string>
+    <string name="discover">Discover</string>
+    <string name="more">More</string>
+    <!--More section-->
+    <string name="switch_lang">Switch to Bahasa</string>
+    <string name="push_notif">Push notification</string>
+    <string name="about">About App</string>
+    <string name="feedback">Feedback</string>
+    <string name="rate_our_app">Rate our App</string>
+    <string name="share_our_app">Share our app with friend</string>
+    <string name="photo_source">Photo source</string>
+
+    <string name="title_activity_category_menu" translatable="false">CategoryMenuActivity</string>
+    <string name="dummy_button" translatable="false">Dummy Button</string>
+    <string name="dummy_content" translatable="false">DUMMY\nCONTENT</string>
+    <string name="action_setting" translatable="false">setting</string>
+    <string name="add_to_favourite">Save</string>
+    <string name="share">Share</string>
+    <string name="find_on_map">Map</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="simpan">tersimpan</string>
+    <string name="Trivia" translatable="false">Trivia</string>
+
+    <string name="tt_favourite">Save your favourite item for quick access</string>
+    <string name="tt_share">Share the information of the item to your social media and friends</string>
+    <string name="tt_trivia">Get the authentic informations about the destination you want before you actually go there</string>
+    <string name="tt_map">See the location on Map</string>
+    <string name="remove">Remove</string>
+    <string name="developer_team">Developer Team</string>
+    <string name="asd">Made with love by these developers:</string>
+</resources>

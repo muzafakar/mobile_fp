@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:background="@color/abu" />
+
+
+    <TextView
+        android:id="@+id/imgNoFav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:drawablePadding="16dp"
+        android:drawableTop="@drawable/fave_pink"
+        android:text="@string/no_favourite_found"
+        android:textAlignment="center"
+        android:textColor="@color/merah1" />
+</RelativeLayout>

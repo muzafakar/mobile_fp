@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:id="@+id/detail_add_to_fav"
+        android:icon="@drawable/selector_fav"
+        android:title="@string/add_to_favourite" />
+
+    <item
+
+        android:id="@+id/detail_share"
+        android:icon="@drawable/selector_share"
+        android:title="@string/share" />
+
+
+    <item
+
+        android:id="@+id/Trivia"
+        android:checkable="false"
+        android:icon="@drawable/selector_trivia"
+        android:title="@string/Trivia" />
+
+    <item
+
+        android:id="@+id/detail_map"
+        android:checkable="false"
+        android:icon="@drawable/selector_map"
+        android:title="@string/find_on_map" />
+
+
+</menu>

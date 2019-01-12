@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.TriviaActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/putih"
+            app:subtitleTextAppearance="@font/lato_bold"
+            app:titleTextColor="@color/abu" />
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:id="@+id/trivia_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        tools:text="Trivia Tittle"
+        android:textSize="30sp"
+        app:layout_constraintTop_toBottomOf="@id/appBar" />
+
+    <TextView
+        android:id="@+id/trivia_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        tools:text="Trivia location"
+        android:textSize="14sp"
+        app:layout_constraintTop_toBottomOf="@id/trivia_title"/>
+
+    <ListView
+        android:id="@+id/listTrivia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/trivia_location"
+        android:layout_marginTop="30px"/>
+
+</android.support.constraint.ConstraintLayout>

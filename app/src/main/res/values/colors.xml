@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cf000f</color>
+    <color name="colorPrimaryDark">#660000</color>
+    <color name="colorAccent">#cf000f</color>
+
+    <color name="menu_image_dark">#9000</color>
+
+    <!--color code from mas adi-->
+    <color name="emas">#ecb14b</color>
+    <color name="merah1">#ec644b</color>
+    <color name="merah2">#e74c3c</color>
+    <color name="merah3">#f22613</color>
+    <color name="merah4">#cf000f</color>
+    <color name="merah5">#660000</color>
+    <color name="abu">#7e8484</color>
+    <color name="putih">#ffffff</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+</resources>

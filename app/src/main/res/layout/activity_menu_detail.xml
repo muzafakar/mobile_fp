@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.zulfakarelzaf.authenticjogja.activity.MenuDetailActivity">
+
+
+    <ImageView
+        android:id="@+id/menu_detail_image"
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/menu_detail_toolbar" />
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/menu_detail_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toRightOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:subtitleTextColor="@color/putih"
+        app:titleTextColor="@color/putih" />
+
+    <TextView
+        android:id="@+id/menu_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="NAMA ITEM"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@id/category_price"
+        tools:background="#123456" />
+
+    <TextView
+        android:id="@+id/category_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginStart="20dp"
+
+        android:text="Starting from 10k"
+        android:textColor="#fff"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@id/scrollview"
+        tools:background="#123456" />
+
+
+    <ScrollView
+        android:id="@+id/scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:textSize="14sp"
+        app:layout_constraintBottom_toTopOf="@+id/menu_detail_botom_nav"
+        app:layout_constraintLeft_toRightOf="parent"
+        app:layout_constraintRight_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/menu_detail_image">
+
+        <TextView
+            android:id="@+id/menu_detail_textdetail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            tools:background="#123456"
+            tools:text="Lorem ipsu, dolor si amet"
+            android:textSize="14sp" />
+    </ScrollView>
+
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/menu_detail_botom_nav"
+        android:layout_width="match_parent"
+        android:layout_height="@android:dimen/notification_large_icon_height"
+        android:background="@color/colorPrimary"
+        app:itemTextColor="@color/putih"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toRightOf="parent"
+        app:layout_constraintRight_toLeftOf="parent"
+        app:menu="@menu/menu_detail_navigation" />
+
+</android.support.constraint.ConstraintLayout>
