@@ -1,7 +1,10 @@
 # Authentic Jogja Team</br>
 Made with :heart: by these developers:
 
-![alt text][dev1]
+
+|Zulfakar Muhammad|Yuril|Agung Suryo Sundoro|
+|-----------------|-----|-------------------|
+|![alt text][dev1]|![alt text][dev2]|![alt text][dev3]|
 
 [dev1]: http://www.amikom.ac.id/public/fotomhs/2016/16_11_0500.jpg
 [dev2]: http://www.amikom.ac.id/public/fotomhs/2016/16_11_0503.jpg
