@@ -24,8 +24,8 @@
 |-----|-----|-----|
 |![alt text][ss1]|![alt text][ss2]|![alt text][ss3]|
 
-[ss1]: https://lh3.googleusercontent.com/U4Xd89K7cg29IgtUYPjJE-IWZ4X_q3ad5Wf9fq5TeVklwXr5aaPd1XHu6fG1sn9ccaV-Aqiprbl_yTJESPFh=w1368-h665-rw
+[ss1]: https://github.com/zulfakarelzaf/mobile_fp/blob/master/screenshots/src_assets_dl2.png?raw=true
 
-[ss2]: https://lh6.googleusercontent.com/eNbetaiAkxWiHHNNs8lCZvuAQp-21PDeWzbgq6szeLM3ONEGUU8fAp6lHRGKndohTZtOeGx8Hlhc9z_L9wJ0=w1368-h665-rw
+[ss2]: https://github.com/zulfakarelzaf/mobile_fp/blob/master/screenshots/src_assets_dl3.png?raw=true
 
-[ss3]: https://lh5.googleusercontent.com/ykkW4W8R2UYRQ46U2Cl_aFtQQXrcU36ZJsaQjK6ktBky-hKosbx1dkKef66RUWfU_lJQngKwUrboGOpM4Hpv=w1368-h665-rw
+[ss3]: https://github.com/zulfakarelzaf/mobile_fp/blob/master/screenshots/src_assets_dl1.png?raw=true
